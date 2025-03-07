@@ -23,7 +23,7 @@ st.markdown(
     .stTitle {
         text-align: center;
         font-weight: bold;
-        color: #4285F4;
+        color: #0000FF;
         font-size: 32px;
     }
     .stSubheader {
